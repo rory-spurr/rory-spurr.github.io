@@ -1,5 +1,6 @@
 ---
-title: "Rory Spurr"
+title: "Rory Spurr - Data Analyst & Data Scientist"
+image: Linkedin_Photo.JPG
 ---
 
 
