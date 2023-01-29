@@ -1,11 +1,22 @@
 ---
-title: "Rory Spurr - Data Analyst & Data Scientist"
+title: "Rory Spurr Data Scientist"
 image: Linkedin_Photo.JPG
 about:
   template: trestles
   image-shape: rounded
   image-width: 15em
+  links: 
+    - text: GitHub
+      href: https://github.com/rory-spurr
 ---
-Hello! My name is Rory and I enjoy coding and analyzing data! Throughout my life I have also been interested in marine life and conservation. As an avid fisherman and environmentalist, my goal is to use data to inform on and olve environmental problems.
+Hello! My name is Rory, and I enjoy coding and analyzing data! Throughout my life, I have also been interested in marine life and conservation. As an avid fisherman and environmentalist, my goal is to use data to inform on and solve environmental problems.
 ---
-This will be a second thing of text when I start to figure it out.
+## Education
+Master of Marine Affairs (2023)  
+University of Washington | Seattle, WA
+
+B.S. Aquatic and Fishery Sciences (2020)    
+University of Washington | Seattle, WA  
+
+## Experience
+
