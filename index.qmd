@@ -1,6 +1,10 @@
 ---
 title: "Rory Spurr - Data Analyst & Data Scientist"
 image: Linkedin_Photo.JPG
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
 ---
 
 
