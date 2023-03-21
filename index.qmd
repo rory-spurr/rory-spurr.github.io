@@ -8,6 +8,10 @@ about:
   links: 
     - text: GitHub
       href: https://github.com/rory-spurr
+    - text: Linkedin
+      href: https://www.linkedin.com/in/roryspurr/
+    - text: Email
+      href: mailto:rjspurr5@live.com
 ---
 Hello! My name is Rory, and I enjoy coding and analyzing data! Throughout my life, I have also been interested in marine life and conservation. As an avid fisherman and environmentalist, my goal is to use data to inform on and solve environmental problems.
 ---
@@ -19,4 +23,14 @@ B.S. Aquatic and Fishery Sciences (2020)
 University of Washington | Seattle, WA  
 
 ## Experience
+Teaching Assistant (9/2021-3/2023)  
+University of Washington | Seattle, WA |  
+Quantitative Science Department
 
+Research and Development Intern (4/2020-10/2020)  
+Whoosh Innovations | Seattle, WA
+
+## Published manuscripts and code
+Spurr, R., & Santana, A. (2023). Visualizing ESA-Listed Fish Research on the West Coast (Version 1.0.0) [Computer software]. [DOI](https://doi.org/10.5281/zenodo.7718894)
+
+Spies, I., Drinan, D. P., Petrou, E. L., Spurr, R., Tarpey, C., Hartinger, T., Larson, W., & Hauser, L. (2021). Evidence for selection and spatially distinct patterns found in a putative zona pellucida gene in Pacific cod, and implications for management. Ecology and Evolution, 11(23), 16661–16679. [DOI](https://doi.org/10.1002/ece3.8284)

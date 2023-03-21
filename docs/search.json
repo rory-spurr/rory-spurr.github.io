@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "posts/Permit Visualization App/AppIndex.html",
+    "href": "posts/Permit Visualization App/AppIndex.html",
+    "title": "ESA-listed Fish Permit Data Visualization",
+    "section": "",
+    "text": "An interactive web application to display ESA-listed fish permitting data.\nAlong with the help of my colleague, Alana Santana, we created an interactive web application displaying spatial and temporal data on authorized and reported take of ESA-listed fishes using R Shiny, Leaflet and Plotly. The project was completed to support the decision making process of the National Marine Fisheries Service West Coast Protected Resources Division, as they make decisions on whether to authorize take permits for endangered species. This project was completed as part of my Master of Marine Affairs degree and was advised by Dr. Anne Beaudreau. Diana Dishman (NOAA federal) was the client who came to us with the project and provided technical advice throughout the length of it. All in all the project was a huge success, and a lot of fun to work on!\n\n\nMy Contributions\nI lead the “authorized take map” portion of this project. The map combines the power of Shiny and Leaflet to create an interactive view of where endangered marine and anadramous fish research is occurring across the landscape. Generally speaking, the map shows authorized take values by watershed (hydrologic unit 8). Important features of the map are:\n\nThe ability to click on a specific watershed to gather more information (name of watershed plus specific level of take authorized).\n\nBlack outline showing all of the different watersheds where a given ESU/DPS can be encountered.\nThe automatic zoom and pan feature upon updating the map to increase usability.\nThe ability to filter the underlying data set using the controls panel on the left.\n\nA table located beneath the map showing data by permit for a finer resolution view on the data.\n\nBesides leading the interactive map portion, I helped: write metadata, organize the Github repository, debug, write informational and home sections, track project progress according to timelines, as well as contributed to countless meetings in order to understand how to best meet the needs of our client.\n\n\nGo ahead and check out the app below!\n\n\n\n\nMore information\nFor more information including metadata and source code for this project, check out the repository for this project on Github"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "ESA-listed Fish Permit Data Visualization\n\n\n\n\n\n\n\nshiny\n\n\ncode\n\n\nleaflet\n\n\n\n\n\n\n\n\n\n\n\nMar 20, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Rory Spurr Data Scientist",
@@ -18,6 +32,13 @@
     "href": "index.html#experience",
     "title": "Rory Spurr Data Scientist",
     "section": "Experience",
-    "text": "Experience"
+    "text": "Experience\nTeaching Assistant (9/2021-3/2023)\nUniversity of Washington | Seattle, WA |\nQuantitative Science Department\nResearch and Development Intern (4/2020-10/2020)\nWhoosh Innovations | Seattle, WA"
+  },
+  {
+    "objectID": "index.html#published-manuscripts-and-code",
+    "href": "index.html#published-manuscripts-and-code",
+    "title": "Rory Spurr Data Scientist",
+    "section": "Published manuscripts and code",
+    "text": "Published manuscripts and code\nSpurr, R., & Santana, A. (2023). Visualizing ESA-Listed Fish Research on the West Coast (Version 1.0.0) [Computer software]. DOI\nSpies, I., Drinan, D. P., Petrou, E. L., Spurr, R., Tarpey, C., Hartinger, T., Larson, W., & Hauser, L. (2021). Evidence for selection and spatially distinct patterns found in a putative zona pellucida gene in Pacific cod, and implications for management. Ecology and Evolution, 11(23), 16661–16679. DOI"
   }
 ]

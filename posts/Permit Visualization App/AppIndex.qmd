@@ -1,0 +1,34 @@
+---
+title: "ESA-listed Fish Permit Data Visualization"
+date: "2023-03-20"
+categories: [shiny, plotly, leaflet]
+image: "goodGif_PRDPres.gif"
+format: 
+  html:
+    page-layout: full
+---
+
+### An interactive web application to display ESA-listed fish permitting data.
+
+Along with the help of my colleague, Alana Santana, we created an interactive web application displaying spatial and temporal data on authorized and reported take of ESA-listed fishes using R Shiny, Leaflet and Plotly. The project was completed to support the decision making process of the National Marine Fisheries Service West Coast Protected Resources Division, as they make decisions on whether to authorize take permits for endangered species. This project was completed as part of my Master of Marine Affairs degree and was advised by Dr. Anne Beaudreau. Diana Dishman (NOAA federal) was the client who came to us with the project and provided technical advice throughout the length of it. All in all the project was a huge success, and a lot of fun to work on!
+
+### My Contributions
+
+I lead the "authorized take map" portion of this project. The map combines the power of Shiny and Leaflet to create an interactive view of where endangered marine and anadramous fish research is occurring across the landscape. Generally speaking, the map shows authorized take values by watershed (hydrologic unit 8). Important features of the map are:  
+
+*   The ability to click on a specific watershed to gather more information (name of watershed plus specific level of take authorized).              
+*   Black outline showing all of the different watersheds where a given ESU/DPS can be encountered.
+*   The automatic zoom and pan feature upon updating the map to increase usability. 
+*   The ability to filter the underlying data set using the controls panel on the left.  
+*   A table located beneath the map showing data by permit for a finer resolution view on the data. 
+
+Besides leading the interactive map portion, I helped: write metadata, organize the Github repository, debug, write informational and home sections, track project progress according to timelines, as well as contributed to countless meetings in order to understand how to best meet the needs of our client.
+
+### Go ahead and check out the app below!
+
+<iframe height="600" width="100%" frameborder="no" src="https://rory-spurr.shinyapps.io/ESAPermitsDataViz/"> </iframe>
+
+### More information
+
+For more information including metadata and source code for this project, check out the repository for this project on [Github](https://github.com/rory-spurr/ESAPermitsCapstone)
+
