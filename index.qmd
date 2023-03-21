@@ -10,7 +10,7 @@ about:
       href: https://github.com/rory-spurr
     - text: Linkedin
       href: https://www.linkedin.com/in/roryspurr/
-    - text: Contact Me
+    - text: Email
       href: mailto:rjspurr5@live.com
 ---
 Hello! My name is Rory, and I enjoy coding and analyzing data! Throughout my life, I have also been interested in marine life and conservation. As an avid fisherman and environmentalist, my goal is to use data to inform on and solve environmental problems.
