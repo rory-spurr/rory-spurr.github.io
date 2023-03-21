@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "posts/Permit Visualization App/AppIndex.html",
+    "href": "posts/Permit Visualization App/AppIndex.html",
+    "title": "ESA-listed Fish Permit Data Visualization",
+    "section": "",
+    "text": "An interactive web application to display ESA-listed fish permitting data.\nAlong with the help of my partner, Alana Santana, we created an interactive web application displaying spatial and temporal data on authorized and reported take of ESA-listed fishes using R Shiny and Leaflet."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "ESA-listed Fish Permit Data Visualization\n\n\n\n\n\n\n\ncode\n\n\ninteractivity\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 20, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Rory Spurr Data Scientist",
@@ -21,10 +35,10 @@
     "text": "Experience\nTeaching Assistant (9/2021-3/2023)\nUniversity of Washington | Seattle, WA |\nQuantitative Science Department\nResearch and Development Intern (4/2020-10/2020)\nWhoosh Innovations | Seattle, WA"
   },
   {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
+    "objectID": "index.html#published-manuscripts-and-code",
+    "href": "index.html#published-manuscripts-and-code",
     "title": "Rory Spurr Data Scientist",
-    "section": "Publications",
-    "text": "Publications\nSpies, I., Drinan, D. P., Petrou, E. L., Spurr, R., Tarpey, C., Hartinger, T., Larson, W., & Hauser, L. (2021). Evidence for selection and spatially distinct patterns found in a putative zona pellucida gene in Pacific cod, and implications for management. Ecology and Evolution, 11(23), 16661–16679. DOI"
+    "section": "Published manuscripts and code",
+    "text": "Published manuscripts and code\nSpurr, R., & Santana, A. (2023). Visualizing ESA-Listed Fish Research on the West Coast (Version 1.0.0) [Computer software]. DOI\nSpies, I., Drinan, D. P., Petrou, E. L., Spurr, R., Tarpey, C., Hartinger, T., Larson, W., & Hauser, L. (2021). Evidence for selection and spatially distinct patterns found in a putative zona pellucida gene in Pacific cod, and implications for management. Ecology and Evolution, 11(23), 16661–16679. DOI"
   }
 ]

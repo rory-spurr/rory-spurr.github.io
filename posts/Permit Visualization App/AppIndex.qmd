@@ -1,0 +1,14 @@
+---
+title: "ESA-listed Fish Permit Data Visualization"
+date: "2023-03-20"
+categories: [code, interactivity, analysis]
+image: "image.jpg"
+server: shiny
+---
+
+An interactive web application to display ESA-listed fish permitting data.
+
+Along with the help of my partner, Alana Santana, we created an interactive web application displaying spatial and temporal data on authorized and reported take of ESA-listed fishes using R Shiny and Leaflet.
+
+<iframe height="400" width="100%" frameborder="no" src="https://rory-spurr.shinyapps.io/ESAPermitsDataViz/"> </iframe>
+
