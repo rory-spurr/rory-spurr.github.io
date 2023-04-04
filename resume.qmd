@@ -1,0 +1,5 @@
+---
+title: "Resume"
+---
+
+<iframe height="600" width="100%" frameborder="no" src="Spurr-Resume.pdf"> </iframe>
